@@ -45,7 +45,7 @@
         "@types/react-dom": "~16.9.10",
         "@types/react-transition-group": "~4.4.5",
         "@types/sinon": "~9.0.11",
-        "chai": "^4.2.0",
+        "chai": "^4.3.6",
         "circle-github-bot": "^2.1.0",
         "cross-env": "^7.0.3",
         "eslint": "^8.21.0",
