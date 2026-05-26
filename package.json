@@ -61,7 +61,7 @@
         "sinon": "^17.0.1",
         "stylelint": "~16.25.0",
         "stylelint-config-palantir": "^7.6.0",
-        "stylelint-scss": "^6.12.1",
+        "stylelint-scss": "^7.1.1",
         "typescript": "~5.9.3",
         "typescript-eslint": "^8.56.1",
         "vitest": "catalog:",
